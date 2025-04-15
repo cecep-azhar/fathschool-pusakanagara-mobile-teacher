@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "932196701812",
+    "project_id": "fathschool-991e8",
+    "storage_bucket": "fathschool-991e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932196701812:android:eecefde2d2f88efd0fa321",
+        "android_client_info": {
+          "package_name": "com.example.fath_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xxRWDwRxQM5-YRPJWuijpcEwNnE_7oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932196701812:android:6d932c338513b00e0fa321",
+        "android_client_info": {
+          "package_name": "com.example.fath_school_student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xxRWDwRxQM5-YRPJWuijpcEwNnE_7oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932196701812:android:c7c9984581d67cd10fa321",
+        "android_client_info": {
+          "package_name": "com.fath_school_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xxRWDwRxQM5-YRPJWuijpcEwNnE_7oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932196701812:android:09f774366e833e4c0fa321",
+        "android_client_info": {
+          "package_name": "com.fath_school_student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xxRWDwRxQM5-YRPJWuijpcEwNnE_7oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
