@@ -52,7 +52,7 @@ class _SplashPageState extends State<SplashPage> {
             const Spacer(),
             Padding(
               padding: const EdgeInsets.all(8.0),
-              child: Assets.images.logoSMKN1Kawali.image(),
+              child: Assets.images.logo.image(),
             ),
             const Spacer(),
             Assets.images.component.image(height: 85),

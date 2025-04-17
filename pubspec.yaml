@@ -58,7 +58,7 @@ dependencies:
   permission_handler: 8.2.2
   shared_preferences: ^2.2.3
   table_calendar: ^3.0.8
-  tflite_flutter: ^0.10.4
+  tflite_flutter: ^0.11.0
   timezone: ^0.9.4
   url_launcher: ^6.3.0
   package_info_plus: 8.0.1
@@ -129,4 +129,4 @@ flutter_launcher_icons:
   remove_alpha_ios: true
   web:
     generate: true
-  image_path: "assets/images/Logo-SMKN-1-Kawali.png"
+  image_path: "assets/images/logo.png"

@@ -52,7 +52,7 @@ class _LoginPageState extends State<LoginPage> {
             children: [
               SizedBox(height: spaceHeight * 4),
               Image.asset(
-                Assets.images.logoSMKN1Kawali.path,
+                Assets.images.logo.path,
                 width: screenSize.width * 0.5,
                 height: logoHeight,
               ),

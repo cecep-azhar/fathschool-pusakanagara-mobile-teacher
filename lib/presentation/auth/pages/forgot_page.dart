@@ -46,7 +46,7 @@ class _ForgotPageState extends State<ForgotPage> {
             children: [
               SizedBox(height: spaceHeight * 5.5),
               Image.asset(
-                Assets.images.logoSMKN1Kawali.path,
+                Assets.images.logo.path,
                 width: screenSize.width * 0.5, // 50% of screen width
                 height: logoHeight,
               ),
