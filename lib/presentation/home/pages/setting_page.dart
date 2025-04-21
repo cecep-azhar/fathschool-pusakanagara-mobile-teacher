@@ -207,7 +207,7 @@ class _SettingPageState extends State<SettingPage> {
                                                     errorBuilder: (context,
                                                         error, stackTrace) {
                                                       return Image.asset(
-                                                        'assets/images/Logo-SMKN-1-Kawali.png',
+                                                        'assets/images/logo.png',
                                                         width: 48.0,
                                                         height: 48.0,
                                                         fit: BoxFit.cover,

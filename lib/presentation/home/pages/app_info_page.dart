@@ -151,8 +151,7 @@ ${data.conclusionApps}
                               height: 120.0,
                             ),
                             Image(
-                              image: AssetImage(
-                                  'assets/images/Logo-SMKN-1-Kawali.png'),
+                              image: AssetImage('assets/images/logo.png'),
                               width: 95.0,
                               height: 95.0,
                             ),

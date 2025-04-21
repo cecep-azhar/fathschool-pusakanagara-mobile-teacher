@@ -205,7 +205,7 @@ class _HomePageState extends State<HomePage> {
                           errorBuilder: (context, error, stackTrace) {
                             // Jika terjadi error saat memuat gambar dari jaringan, tampilkan gambar dari asset lokal
                             return Image.asset(
-                              'assets/images/Logo-SMKN-1-Kawali.png',
+                              'assets/images/logo.png',
                               width: 48.0,
                               height: 48.0,
                               fit: BoxFit.cover,

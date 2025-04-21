@@ -165,7 +165,7 @@ class _PermissionDetailPageState extends State<PermissionDetailPage> {
                   errorBuilder: (context, error, stackTrace) {
                     // Jika terjadi error saat memuat gambar, tampilkan gambar default
                     return Image.asset(
-                      'assets/images/Logo-SMKN-1-Kawali.png',
+                      'assets/images/logo.png',
                       width: 450.0,
                       fit: BoxFit.cover,
                     );

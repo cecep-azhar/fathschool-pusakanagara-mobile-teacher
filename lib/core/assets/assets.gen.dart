@@ -110,7 +110,7 @@ class $AssetsImagesGen {
 
   /// File path: assets/images/Logo-SMKN-1-Kawali.png
   AssetGenImage get logoSMKN1Kawali =>
-      const AssetGenImage('assets/images/Logo-SMKN-1-Kawali.png');
+      const AssetGenImage('assets/images/logo.png');
 
   /// File path: assets/images/back.png
   AssetGenImage get back => const AssetGenImage('assets/images/back.png');
